@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.UI.Console\\AM.UI.Console.csproj": {}
+    "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj": {}
   },
   "projects": {
-    "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+    "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "projectName": "AM.ApplicationCore",
-        "projectPath": "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\dhia\\.nuget\\packages\\",
-        "outputPath": "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.ApplicationCore\\obj\\",
+        "projectPath": "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\Dr.Gabtni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dhia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dr.Gabtni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +59,17 @@
         }
       }
     },
-    "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.UI.Console\\AM.UI.Console.csproj": {
+    "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.UI.Console\\AM.UI.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
         "projectName": "AM.UI.Console",
-        "projectPath": "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.UI.Console\\AM.UI.Console.csproj",
-        "packagesPath": "C:\\Users\\dhia\\.nuget\\packages\\",
-        "outputPath": "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.UI.Console\\obj\\",
+        "projectPath": "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
+        "packagesPath": "C:\\Users\\Dr.Gabtni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.UI.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dhia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dr.Gabtni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
-                "projectPath": "X:\\4NIDS workin\\.NET\\DhiaGabtni-Nids1-TP-AirportManagement-Part1\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
+              "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\Dr.Gabtni\\Documents\\GitHub\\Dot-Net\\DhiaGabtni_TP_AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
               }
             }
           }
